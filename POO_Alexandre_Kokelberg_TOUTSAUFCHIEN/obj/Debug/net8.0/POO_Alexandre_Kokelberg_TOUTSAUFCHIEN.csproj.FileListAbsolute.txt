@@ -1,0 +1,14 @@
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\bin\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.exe
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\bin\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.deps.json
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\bin\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.runtimeconfig.json
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\bin\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.dll
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\bin\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.pdb
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.GeneratedMSBuildEditorConfig.editorconfig
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.AssemblyInfoInputs.cache
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.AssemblyInfo.cs
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.csproj.CoreCompileInputs.cache
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.dll
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\refint\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.dll
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.pdb
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.genruntimeconfig.cache
+H:\UUA14 POO\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN\obj\Debug\net8.0\ref\POO_Alexandre_Kokelberg_TOUTSAUFCHIEN.dll
